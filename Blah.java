@@ -13,4 +13,4 @@ public class  Blah
         } 
     }
 }
-JOURNAL 26 - write down WHY YOU THINK == did not work for this program and .equals work. alan was here
+JOURNAL 26 - write down WHY YOU THINK == did not work for this program and .equals work. alan was here. me too
